@@ -16,3 +16,4 @@ str(model2)
 plot(model2$x[,1],model$x[,2])
 ggbiplot(model2)
 plot(model2)
+=======over===========#
